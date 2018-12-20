@@ -1,0 +1,6 @@
+framework module WZTestCategoryKit {
+  umbrella header "WZTestCategoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

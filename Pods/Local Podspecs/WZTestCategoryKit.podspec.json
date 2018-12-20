@@ -1,0 +1,22 @@
+{
+  "name": "WZTestCategoryKit",
+  "version": "0.1.0",
+  "summary": "A short description of WZTestCategoryKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/weiwei/WZTestCategoryKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "weiwei": "1056225433@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/weiwei/WZTestCategoryKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WZTestCategoryKit/Classes/**/*"
+}
