@@ -2,15 +2,15 @@ PODS:
   - WZTestCategoryKit (0.1.0)
 
 DEPENDENCIES:
-  - WZTestCategoryKit (from `../`)
+  - "WZTestCategoryKit (from `/Users/rongbei/Desktop/组件化目录/WZTestCategoryKit`)"
 
 EXTERNAL SOURCES:
   WZTestCategoryKit:
-    :path: "../"
+    :path: "/Users/rongbei/Desktop/组件化目录/WZTestCategoryKit"
 
 SPEC CHECKSUMS:
-  WZTestCategoryKit: 7a17a363662e71438ceedec5ca1d8a03b7fbdbc9
+  WZTestCategoryKit: f6c724afaaeb9029356d2e27ac811d9ef9f46b1e
 
-PODFILE CHECKSUM: b4ece6d41b28a05785aceabf63ba976cbf04e6d9
+PODFILE CHECKSUM: dd7de153b5c5ce7a1f4d4c1e07cc246513cfb427
 
 COCOAPODS: 1.5.3
